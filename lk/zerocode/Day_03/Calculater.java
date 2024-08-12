@@ -1,1 +1,0 @@
-add, sum, devide, sub, multiply, mod, power, root
